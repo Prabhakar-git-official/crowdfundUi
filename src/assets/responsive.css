@@ -1,0 +1,79 @@
+@media (max-width: 991px){
+    .py-100 {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .subtitle {
+        margin-bottom: 35px;
+    }
+    .title-about{
+        margin-bottom: 45px;
+    }
+    .home-banner h4 {
+        margin-bottom: 25px;
+    }
+    .platform-title{
+        margin-top: 40px;
+    }
+    .home-banner{
+        padding-top: 120px;
+        padding-bottom: 40px;
+    }
+    h2.bottom-title{
+        margin-top: 50px;
+    }
+    h1{
+        font-size: 46px;
+    }
+    .feature-item{
+        padding: 15px;
+        font-size: 16px;
+        min-height: 165px;
+    }
+    .team-item {
+        font-size: 18px;
+    }
+    .invester-item{
+        font-size: 18px;
+        min-height: 100px;
+    }
+    .team-item-icon{
+        height: 88px;
+        width: 88px;
+        min-width: 88px;
+    }
+    .team-member{
+        font-size: 15px;
+    }
+    h4{
+        font-size: 18px;
+    }
+    .footer{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .footer{
+        padding: 40px 0 !important;
+    }
+    .footer-logo{
+        justify-content: center;
+    }
+    h2{
+        font-size: 28px;
+        line-height: 37px;
+    }
+    h2.bottom-title{
+        font-size: 26px;
+    }
+    h2.bottom-title svg{
+        left: -45px;
+        max-width: 180px;
+        top: -18px;
+    }
+    .btn{
+        padding: 12px 35px;
+        font-size: 14px;
+    }
+}
